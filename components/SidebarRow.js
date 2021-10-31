@@ -12,7 +12,7 @@ function SidebarRow({ src, Icon, title }) {
           layout='fixed'
         />
       )}
-      {Icon && <Icon className='text-blue-500 h-8 w-8' />}
+      {Icon && <Icon className='text-blue-500 h-7 w-7' />}
       <p className='hidden sm:inline-flex font-medium'>{title}</p>
     </div>
   );
