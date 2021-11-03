@@ -1,4 +1,4 @@
-## Facebook Clone
+# Facebook Clone
 
 This clone is built using React. The frontend is built using Next.js & Tailwind CSS. All the uploaded posts are stored in Firebase. These posts are then rendered on the frontend.
 
