@@ -21,7 +21,7 @@ export default function Home({ session, posts }) {
 
         <main className='flex'>
           <Sidebar />
-          <Feed />
+          <Feed posts={posts} />
           <Widgets />
         </main>
       </div>
