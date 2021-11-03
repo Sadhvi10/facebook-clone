@@ -4,10 +4,10 @@ This clone is built using React. The frontend is built using Next.js & Tailwind 
 
 ## Features
 
-Markup : *Next.js Authentication
-*Image Upload Functionality
-*Server Side Rendering (SSR)
-*Responsive
+- Next.js Authentication
+- Image Upload Functionality
+- Server Side Rendering (SSR)
+- Responsive
 
 ## Live Site
 
@@ -15,5 +15,5 @@ Markup : *Next.js Authentication
 
 ## Setup
 
-Markup : *Run `npm i && npm run dev` or `yarn install && yarn run dev`
-Markup : *Go to `localhost:3000`
+- Run `npm i && npm run dev` or `yarn install && yarn run dev`
+- Go to `localhost:3000`
