@@ -11,7 +11,11 @@ This clone is built using React. The frontend is built using Next.js & Tailwind 
 
 ## Live Site
 
+https://facebook-clone-v2.vercel.app/
+
 ## Screenshots
+
+![Image](https://github.com/Sadhvi10/facebook-clone/blob/main/fb_thumbnail.png?raw=true)
 
 ## Setup
 
