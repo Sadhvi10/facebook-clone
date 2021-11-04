@@ -15,7 +15,7 @@ https://facebook-clone-v2.vercel.app/
 
 ## Screenshots
 
-![Image](https://github.com/[Sadhvi10]/[facebook-clone]/blob/[main]/fb_thumbnail.png?raw=true)
+![Fb Thumbnail](fb_thumbnail.png)
 
 ## Setup
 
