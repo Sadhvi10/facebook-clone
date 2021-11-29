@@ -11,7 +11,7 @@ This clone is built using React. The frontend is built using Next.js & Tailwind 
 
 ## Live Site
 
-https://facebook-clone-v2.vercel.app/
+https://facebook-clone-version2.vercel.app/
 
 ## Screenshots
 
